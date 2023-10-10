@@ -1,0 +1,10 @@
+.acctSettingsDiv {
+  background-color: rgba(97, 137, 138, 0.9);
+  padding: 0 1rem 1rem;
+}
+.btn {
+  background-color: var(--main-bg-color);
+};
+.accordian-body {
+  background-color: var(--main-bg-color);
+};

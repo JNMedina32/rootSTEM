@@ -1,0 +1,29 @@
+nav {
+  --nav-main: #1D292F;
+}
+
+.navbar {
+  border-bottom: var(--border);
+  color: var(--second-color);
+  background-color: var(--nav-main);
+}
+.btn {
+  border: var(--border);
+  color: var(--second-color);
+  
+}
+
+/* Navbar Menu */
+
+.offcanvas {
+  background-color: var(--nav-main);
+  color: var(--second-color);
+}
+
+.nbm {
+  background-image: url("../images/rootSTEM.jpg");
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: contain;
+  height: 100vh;
+};

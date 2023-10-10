@@ -1,0 +1,25 @@
+/* Home Page */
+.background-container{
+  max-height: calc(width * 0.5625);
+  background-color: #1d292f;
+  max-width: 500px;
+  border-radius: 0.5rem;
+  border: 1px solid black;
+};
+
+
+
+/* @media screen {
+  .background-container {
+
+    aspect-ratio: 9/16 !important;
+  }
+} */
+  
+
+/* User Settings Page */
+
+.btn {
+  background-color: #1d292f;
+}
+

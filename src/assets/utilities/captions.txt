@@ -1,0 +1,72 @@
+{"so  encoding  do  these  numbers  here 
+ represent  anything  to  you  well  97  is  the 
+ Unicode  for  a  and  one  two  two  is  the 
+ Unicode  for  Z  so  the  Unicode  is  a 
+ standardized  encoding  system  for 
+ representing  characters  and  symbols  so 
+ free  console  log  string  of  a  and  we  use 
+ the  Char  code  at  method  and  we  say  zero 
+ so  it's  going  to  be  at  the  zeroth  index 
+ here  so  that's  going  to  be  a  if  we 
+ console  log  that  as  well  as  Z  we're 
+ going  to  get  97  and  1  2  2.  so  here  we 
+ have  a  string  we  want  to  validate  that 
+ contains  only  letters  from  A  to  Z  so  we 
+ want  this  to  return  false  so  what  we  can 
+ do  is  Loop  through  the  characters  of  the 
+ string  and  use  the  Unicode  to  work  this 
+ out  so  if  string  charco.i  if  this  is 
+ less  than  97  so  remember  this  is  the 
+ Unicode  for  a  if  it's  less  than  that  or 
+ I  is  greater  than  one  to  two  so  the  uni 
+ code  for  Z  we  can  return  false  because 
+ all  the  numbers  between  97  and  1  to  2 
+ count  for  all  the  letters  from  A  to  Z  if 
+ it  falls  outside  this  range  then  it's 
+ not  in  the  alphabet  so  one  for  example 
+ is  not  going  to  fall  inside  that  range 
+ otherwise  we  can  return  true  here  it's 
+ console  log  this  run  it  and  as  you  can 
+ see  we've  got  false  so  this  can  prove  a 
+ very  useful  technique  for  coding 
+ interviews  and  get  you  out  of  sticky 
+ situations", "the  most  annoying  thing  programmers  have 
+ to  deal  with  is  authentication  if  I  was 
+ building  an  app  with  authentication  it 
+ would  need  magic  links  social  logins 
+ user  permissions  two-factor 
+ authentication  and  more  it's  kind  of  a 
+ given  so  I'm  using  Propel  auth  to  allow 
+ me  to  have  those  features  that  people 
+ trust  and  expect  instantly  while  I  focus 
+ on  building  the  core  functionality  with 
+ just  a  few  lines  of  code  in  my  backend 
+ framework  I  can  get  features  like  role 
+ management  built-in  domain  invitations 
+ and  more  authentication  is  extremely 
+ important  but  if  you  need  to  get  your 
+ app  out  in  the  world  to  validate  it 
+ build  as  fast  as  you  can  if  you  don't 
+ have  to  there's  really  no  point  in 
+ Touching  Authentication", "so  anti-matter  is  real  but  it's  also  not 
+ scary  hear  me  out  everything  around  you 
+ is  made  of  matter  particles  like  protons 
+ neutrons  and  electrons  anti-matter  is 
+ almost  exactly  like  all  that  regular 
+ matter  it  just  has  the  opposite  electric 
+ charge  like  electrons  have  a  negative 
+ charge  but  an  antimatter  electron  called 
+ a  positron  has  a  positive  charge  and 
+ that's  basically  the  only  major 
+ difference  I  mean  there  are  also  some 
+ very  tiny  other  changes  but  they're  just 
+ beside  the  point  here  see  not  scary 
+ there  is  the  part  where  if  a  matter 
+ particle  hits  its  antimatter  counterpart 
+ they'll  like  annihilate  each  other  and 
+ release  a  bunch  of  energy  but  that's 
+ also  not  anything  you  need  to  worry 
+ about  because  there  is  a  disturbing  lack 
+ of  antimatter  in  the  universe  oh  why 
+ covered  one  of  the  one of  the  big 
+ mysteries  in  physics"}

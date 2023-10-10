@@ -1,0 +1,26 @@
+
+.video-header {
+  height: fit-content;
+  margin: 0;
+
+  align-items: center;
+}
+
+.player-wrapper {
+  aspect-ratio: 9/16;
+  border-radius: 0.5rem;
+  padding: 0;
+}
+
+.video-description {
+  background-color: rgba(97, 137, 138, 0.8);
+  border-radius: 0.5rem;
+  margin-left: 0;
+  
+}
+.video-footer {
+  padding: 0.5rem;
+};
+.row {
+  justify-content: center;
+}

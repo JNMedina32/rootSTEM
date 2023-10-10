@@ -1,0 +1,22 @@
+html {
+  --main-color: #61898A;
+  --second-color: #f2dc85;
+  --main-bg-color: #1d292f;
+  --border: 1px solid var(--second-color);
+}
+
+body {
+  text-align: center;
+
+  color: var(--second-color);
+  background-image: url("../images/rootSTEM.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+  background-attachment: fixed;
+
+};
+
+
+
+
